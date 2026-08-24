@@ -2,6 +2,10 @@
 
 Este repositorio contiene el **Proyecto 1** de mi portafolio personal en análisis e ingeniería de datos. El proyecto implementa un flujo completo de extremo a extremo (*End-to-End*), desde la automatización de la ingesta de datos hasta el modelado relacional y la visualización interactiva.
 
+<p align="center">
+  <img src="./Reports/dashboard_preview.png" alt="Dashboard de Ventas y Gastos" width="100%">
+</p>
+
 ## Estructura del Repositorio
 
 * **Data/**: Almacena los datasets originales base para el análisis.
